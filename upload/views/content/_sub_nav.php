@@ -1,4 +1,4 @@
-<ul class="nav nav-pills">
+<ul class="nav nav-pills">s
 	<li <?php echo $this->uri->segment(4) == '' ? 'class="active"' : '' ?>>
 		<a href="<?php echo site_url(SITE_AREA .'/content/upload') ?>" id="list"><?php echo lang('upload_list'); ?></a>
 	</li>
