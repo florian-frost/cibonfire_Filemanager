@@ -3,6 +3,8 @@ Bonfire-Filemanager
 
 A Module to handle files and uploads for CI-Bonfire.
 
+Previously made by [inbe](https://github.com/inbe/Bonfire-Filemanager-Deprecated) - Lead Developer and I will now make it live a second life as mush as i can with next versions of Bonfire.
+
 -----------------------------------------------------------------------
 
 # Fileupload / multi-fileupload
@@ -60,7 +62,3 @@ A Module to handle files and uploads for CI-Bonfire.
 - owner_id
 - modified
 - created
-
-## The Team
-
-- [inbe](https://github.com/inbe) - Lead Developer
